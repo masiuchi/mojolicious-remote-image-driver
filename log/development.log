@@ -1,0 +1,301 @@
+[Fri Oct  9 23:51:19 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:51:19 2015] [debug] POST "/rotate"
+[Fri Oct  9 23:51:19 2015] [debug] Class "RemoteImageDriver::Controller::RemoteImageDriver" is not a controller
+[Fri Oct  9 23:51:19 2015] [debug] Template "remote_image_driver/rotate.html.ep" not found
+[Fri Oct  9 23:51:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:51:19 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:51:19 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:51:19 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:51:19 2015] [debug] 404 Not Found (0.059225s, 16.885/s)
+[Fri Oct  9 23:51:36 2015] [debug] GET "/"
+[Fri Oct  9 23:51:36 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Fri Oct  9 23:51:36 2015] [debug] Rendering template "example/welcome.html.ep"
+[Fri Oct  9 23:51:36 2015] [debug] Rendering template "layouts/default.html.ep"
+[Fri Oct  9 23:51:36 2015] [debug] 200 OK (0.007891s, 126.727/s)
+[Fri Oct  9 23:51:42 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:51:42 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:51:42 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:51:42 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:51:42 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:51:42 2015] [debug] 404 Not Found (0.029788s, 33.571/s)
+[Fri Oct  9 23:54:17 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:54:17 2015] [debug] POST "/rotate"
+[Fri Oct  9 23:54:17 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:54:17 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:54:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:54:17 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:54:17 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:54:17 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:54:17 2015] [debug] 404 Not Found (0.027962s, 35.763/s)
+[Fri Oct  9 23:54:40 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:54:40 2015] [debug] POST "/rotate"
+[Fri Oct  9 23:54:40 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:54:40 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:54:40 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:54:40 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:54:40 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:54:40 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:54:40 2015] [debug] 404 Not Found (0.060133s, 16.630/s)
+[Fri Oct  9 23:55:06 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:55:06 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:55:06 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:55:06 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:55:06 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:55:06 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:55:06 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:55:06 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:55:06 2015] [debug] 404 Not Found (0.029502s, 33.896/s)
+[Fri Oct  9 23:55:08 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:55:08 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:55:08 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:55:08 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:55:08 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:55:08 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:55:08 2015] [debug] Rendering cached inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:55:08 2015] [debug] 404 Not Found (0.020411s, 48.993/s)
+[Fri Oct  9 23:55:24 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:55:24 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:55:24 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:55:24 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:55:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:55:24 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:55:24 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:55:24 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:55:24 2015] [debug] 404 Not Found (0.027897s, 35.846/s)
+[Fri Oct  9 23:56:14 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:56:14 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:56:14 2015] [debug] Controller "RemoteImageDriver::Remoteimagedriver" does not exist
+[Fri Oct  9 23:56:14 2015] [debug] Template "remoteimagedriver/rotate.html.ep" not found
+[Fri Oct  9 23:56:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Oct  9 23:56:14 2015] [debug] Template "not_found.html.ep" not found
+[Fri Oct  9 23:56:14 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:56:14 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:56:14 2015] [debug] 404 Not Found (0.029974s, 33.362/s)
+[Fri Oct  9 23:57:56 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:57:56 2015] [debug] GET "/rotate"
+[Fri Oct  9 23:57:56 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "rotate"
+[Fri Oct  9 23:57:56 2015] [error] Can't call method "filename" on an undefined value at lib/RemoteImageDriver.pm line 17, <DATA> line 228.
+
+[Fri Oct  9 23:57:56 2015] [debug] Template "exception.development.html.ep" not found
+[Fri Oct  9 23:57:56 2015] [debug] Template "exception.html.ep" not found
+[Fri Oct  9 23:57:56 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Oct  9 23:57:56 2015] [debug] Rendering inline template "5c56e02d3f6bef1b561eb2fd795ceacc"
+[Fri Oct  9 23:57:56 2015] [debug] 500 Internal Server Error (0.059941s, 16.683/s)
+[Fri Oct  9 23:58:42 2015] [debug] Your secret passphrase needs to be changed
+[Fri Oct  9 23:58:42 2015] [debug] POST "/rotate"
+[Fri Oct  9 23:58:42 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "rotate"
+[Fri Oct  9 23:58:43 2015] [debug] 200 OK (0.421950s, 2.370/s)
+[Sat Oct 10 00:03:31 2015] [debug] Your secret passphrase needs to be changed
+[Sat Oct 10 00:03:31 2015] [debug] GET "/"
+[Sat Oct 10 00:03:31 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:03:31 2015] [debug] Rendering template "example/welcome.html.ep"
+[Sat Oct 10 00:03:31 2015] [debug] Rendering template "layouts/default.html.ep"
+[Sat Oct 10 00:03:31 2015] [debug] 200 OK (0.006588s, 151.791/s)
+[Sat Oct 10 00:03:35 2015] [debug] GET "/"
+[Sat Oct 10 00:03:35 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:03:35 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:03:35 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:03:35 2015] [debug] 200 OK (0.001531s, 653.168/s)
+[Sat Oct 10 00:03:49 2015] [debug] GET "/"
+[Sat Oct 10 00:03:49 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:03:49 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:03:49 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:03:49 2015] [debug] 200 OK (0.001376s, 726.744/s)
+[Sat Oct 10 00:03:59 2015] [debug] GET "/"
+[Sat Oct 10 00:03:59 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:03:59 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:03:59 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:03:59 2015] [debug] 200 OK (0.001188s, 841.751/s)
+[Sat Oct 10 00:04:01 2015] [debug] GET "/"
+[Sat Oct 10 00:04:01 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:01 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:01 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:01 2015] [debug] 200 OK (0.001318s, 758.725/s)
+[Sat Oct 10 00:04:01 2015] [debug] POST "/rotate"
+[Sat Oct 10 00:04:01 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "rotate"
+[Sat Oct 10 00:04:01 2015] [debug] 200 OK (0.400641s, 2.496/s)
+[Sat Oct 10 00:04:02 2015] [debug] GET "/"
+[Sat Oct 10 00:04:02 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] 200 OK (0.001222s, 818.331/s)
+[Sat Oct 10 00:04:02 2015] [debug] GET "/"
+[Sat Oct 10 00:04:02 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] 200 OK (0.001455s, 687.285/s)
+[Sat Oct 10 00:04:02 2015] [debug] GET "/"
+[Sat Oct 10 00:04:02 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:02 2015] [debug] 200 OK (0.001510s, 662.252/s)
+[Sat Oct 10 00:04:02 2015] [debug] POST "/crop_rectangle"
+[Sat Oct 10 00:04:02 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "crop_rectangle"
+[Sat Oct 10 00:04:02 2015] [debug] 200 OK (0.175625s, 5.694/s)
+[Sat Oct 10 00:04:02 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:02 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:03 2015] [debug] 200 OK (0.662452s, 1.510/s)
+[Sat Oct 10 00:04:06 2015] [debug] GET "/"
+[Sat Oct 10 00:04:06 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] 200 OK (0.001603s, 623.830/s)
+[Sat Oct 10 00:04:06 2015] [debug] GET "/"
+[Sat Oct 10 00:04:06 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] 200 OK (0.001460s, 684.932/s)
+[Sat Oct 10 00:04:06 2015] [debug] GET "/"
+[Sat Oct 10 00:04:06 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:06 2015] [debug] 200 OK (0.001204s, 830.565/s)
+[Sat Oct 10 00:04:06 2015] [debug] POST "/crop_rectangle"
+[Sat Oct 10 00:04:06 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "crop_rectangle"
+[Sat Oct 10 00:04:06 2015] [debug] 200 OK (0.182488s, 5.480/s)
+[Sat Oct 10 00:04:06 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:06 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:07 2015] [debug] 200 OK (0.814448s, 1.228/s)
+[Sat Oct 10 00:04:12 2015] [debug] GET "/"
+[Sat Oct 10 00:04:12 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] 200 OK (0.001798s, 556.174/s)
+[Sat Oct 10 00:04:12 2015] [debug] GET "/"
+[Sat Oct 10 00:04:12 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] 200 OK (0.001555s, 643.087/s)
+[Sat Oct 10 00:04:12 2015] [debug] GET "/"
+[Sat Oct 10 00:04:12 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:12 2015] [debug] 200 OK (0.001440s, 694.444/s)
+[Sat Oct 10 00:04:12 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:12 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:13 2015] [debug] 200 OK (1.045771s, 0.956/s)
+[Sat Oct 10 00:04:16 2015] [debug] GET "/"
+[Sat Oct 10 00:04:16 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:16 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:16 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:16 2015] [debug] 200 OK (0.001386s, 721.501/s)
+[Sat Oct 10 00:04:16 2015] [debug] GET "/"
+[Sat Oct 10 00:04:16 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:16 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:16 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:16 2015] [debug] 200 OK (0.001794s, 557.414/s)
+[Sat Oct 10 00:04:23 2015] [debug] GET "/"
+[Sat Oct 10 00:04:23 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:23 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:23 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:23 2015] [debug] 200 OK (0.001359s, 735.835/s)
+[Sat Oct 10 00:04:24 2015] [debug] GET "/"
+[Sat Oct 10 00:04:24 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:24 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:24 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:24 2015] [debug] 200 OK (0.001466s, 682.128/s)
+[Sat Oct 10 00:04:24 2015] [debug] GET "/"
+[Sat Oct 10 00:04:24 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:24 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:24 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:24 2015] [debug] 200 OK (0.003565s, 280.505/s)
+[Sat Oct 10 00:04:27 2015] [debug] GET "/"
+[Sat Oct 10 00:04:27 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] 200 OK (0.001397s, 715.820/s)
+[Sat Oct 10 00:04:27 2015] [debug] GET "/"
+[Sat Oct 10 00:04:27 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] 200 OK (0.001495s, 668.896/s)
+[Sat Oct 10 00:04:27 2015] [debug] GET "/"
+[Sat Oct 10 00:04:27 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:27 2015] [debug] 200 OK (0.001113s, 898.473/s)
+[Sat Oct 10 00:04:27 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:27 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:28 2015] [debug] 200 OK (0.769847s, 1.299/s)
+[Sat Oct 10 00:04:33 2015] [debug] GET "/"
+[Sat Oct 10 00:04:33 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:33 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:33 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:33 2015] [debug] 200 OK (0.002566s, 389.712/s)
+[Sat Oct 10 00:04:35 2015] [debug] GET "/"
+[Sat Oct 10 00:04:35 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:35 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:35 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:35 2015] [debug] 200 OK (0.002878s, 347.464/s)
+[Sat Oct 10 00:04:35 2015] [debug] GET "/"
+[Sat Oct 10 00:04:35 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:35 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:35 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:35 2015] [debug] 200 OK (0.001332s, 750.751/s)
+[Sat Oct 10 00:04:38 2015] [debug] GET "/"
+[Sat Oct 10 00:04:38 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:38 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:38 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:38 2015] [debug] 200 OK (0.001417s, 705.716/s)
+[Sat Oct 10 00:04:39 2015] [debug] GET "/"
+[Sat Oct 10 00:04:39 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:39 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:39 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:39 2015] [debug] 200 OK (0.002584s, 386.997/s)
+[Sat Oct 10 00:04:41 2015] [debug] GET "/"
+[Sat Oct 10 00:04:41 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:41 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:41 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:41 2015] [debug] 200 OK (0.001118s, 894.454/s)
+[Sat Oct 10 00:04:42 2015] [debug] GET "/"
+[Sat Oct 10 00:04:42 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:42 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:42 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:42 2015] [debug] 200 OK (0.001179s, 848.176/s)
+[Sat Oct 10 00:04:49 2015] [debug] GET "/"
+[Sat Oct 10 00:04:49 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:49 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:49 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:49 2015] [debug] 200 OK (0.001345s, 743.494/s)
+[Sat Oct 10 00:04:51 2015] [debug] GET "/"
+[Sat Oct 10 00:04:51 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] 200 OK (0.001763s, 567.215/s)
+[Sat Oct 10 00:04:51 2015] [debug] GET "/"
+[Sat Oct 10 00:04:51 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] 200 OK (0.001347s, 742.390/s)
+[Sat Oct 10 00:04:51 2015] [debug] GET "/"
+[Sat Oct 10 00:04:51 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:51 2015] [debug] 200 OK (0.001322s, 756.430/s)
+[Sat Oct 10 00:04:51 2015] [debug] POST "/crop_rectangle"
+[Sat Oct 10 00:04:51 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "crop_rectangle"
+[Sat Oct 10 00:04:51 2015] [debug] 200 OK (0.026886s, 37.194/s)
+[Sat Oct 10 00:04:51 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:51 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:51 2015] [debug] 200 OK (0.071396s, 14.006/s)
+[Sat Oct 10 00:04:55 2015] [debug] GET "/"
+[Sat Oct 10 00:04:55 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] 200 OK (0.002439s, 410.004/s)
+[Sat Oct 10 00:04:55 2015] [debug] GET "/"
+[Sat Oct 10 00:04:55 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] 200 OK (0.002336s, 428.082/s)
+[Sat Oct 10 00:04:55 2015] [debug] GET "/"
+[Sat Oct 10 00:04:55 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Example" and action "welcome"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Sat Oct 10 00:04:55 2015] [debug] 200 OK (0.001566s, 638.570/s)
+[Sat Oct 10 00:04:55 2015] [debug] POST "/crop_rectangle"
+[Sat Oct 10 00:04:55 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "crop_rectangle"
+[Sat Oct 10 00:04:55 2015] [debug] 200 OK (0.027288s, 36.646/s)
+[Sat Oct 10 00:04:55 2015] [debug] POST "/scale"
+[Sat Oct 10 00:04:55 2015] [debug] Routing to controller "RemoteImageDriver::Controller::Driver" and action "scale"
+[Sat Oct 10 00:04:55 2015] [debug] 200 OK (0.092076s, 10.861/s)
